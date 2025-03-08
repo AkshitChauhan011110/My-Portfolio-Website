@@ -265,10 +265,10 @@ Welcome to my personal portfolio website repository! This project serves as a di
         <div class="profile-info">
             <h1>Akshit Chauhan</h1>
             <p>
-                <a href="https://www.linkedin.com/in/akshit-chauhan-238052288" >LinkedIn</a> - 
-                <a href="https://www.instagram.com/_.akshit_chauhan._/" >Instagram</a>-
-                <a href="https://github.com/AkshitChauhan011110/Akshit-Chauhan">GitHub</a>
-                <h3>akshitchauhan344@gmail.com</h3>
+                <a href="Write your linked in Address" >LinkedIn</a> - 
+                <a href="Write your linked in Instagram" >Instagram</a>-
+                <a href="Write your linked in GitHub">GitHub</a>
+                <h3>Gmail</h3>
                 
             </p>
         </div>
@@ -298,13 +298,13 @@ Welcome to my personal portfolio website repository! This project serves as a di
                     B.Tech (CSE)
                 </td>
                 <td>
-                    Graphic Era Hill University
+                    Collage name 
                 </td>
                 <td>
-                    2022-2026
+                    Passing Out Year
                 </td>
                 <td>
-                    7.7475 / 10
+                    CGPA
                 </td>
             </tr>
             <tr>
@@ -312,13 +312,13 @@ Welcome to my personal portfolio website repository! This project serves as a di
                     XII
                 </td>
                 <td>
-                    Baluni Public School
+                    School Name
                 </td>
                 <td>
-                    2021
+                    Passing Out Year
                 </td>
                 <td>
-                    77.8%
+                    Percentage
                 </td>
             </tr>
             <tr>
@@ -326,13 +326,13 @@ Welcome to my personal portfolio website repository! This project serves as a di
                     X
                 </td>
                 <td>
-                    Doon's Pride Public School
+                    School Name
                 </td>
                 <td>
-                    2019
+                    Passing Out Year
                 </td>
                 <td>
-                    78.16%
+                    Year of Graduation
                 </td>
             </tr>
         </table>
@@ -353,19 +353,16 @@ Welcome to my personal portfolio website repository! This project serves as a di
         <h2>Projects</h2> 
         <div class="Project-content">
             <div>
-                <h3>Dynamic Web Application for University</h3>
-                <p>Built a web application for Graphic Era Hill University, focusing on enhancing user experience with features
-                    such as image display and dropdown menus.</p>
+                <h3>Project 1</h3>
+                <p>Description.</p>
             </div>
             <div>
-                <h3>Object Detection and Voice Feedback System</h3>
-                <p>Designed and developed a real-time object detection system using TensorFlow.js and integrated a voice feedback
-                    system through the Web Speech API.</p>
+                <h3>Project 2</h3>
+                <p>Description.</p>
             </div>
             <div>
-                <h3>Course Recommendation System</h3>
-                <p>Designed and implemented a machine learning model using RandomForestClassifier to recommend courses
-                    based on high school marks, subjects, and hobbies.</p>
+                <h3>Project 3</h3>
+                <p>Description.</p>
             </div>
         </div>
     </div>
@@ -373,22 +370,22 @@ Welcome to my personal portfolio website repository! This project serves as a di
     <div class="Certification">
     <h2>Certifications</h2>
     <div>
-        <a href="https://unstop.com/certificate-preview/c75d159a-7948-4534-8073-40542a4b472c" target="_blank">
+        <a href="Link">
             <img src="amazon.jpg" alt="Amazon Certificate">
         </a>
-        <a href="https://unstop.com/certificate-preview/c8d7a9af-0ba7-478d-a919-107ddc4beba0" target="_blank">
+        <a href="Link">
             <img src="flipcart.jpg" alt="Flipkart Certificate">
         </a>
-        <a href="https://unstop.com/certificate-preview/9b13bc83-430f-4536-9232-696c10b6dd6d" target="_blank">
+        <a href="Link">
             <img src="hp.jpg" alt="HP Certificate">
         </a>
-        <a href="https://unstop.com/certificate-preview/abc33d2c-1009-415d-978c-7e1f9f881858" target="_blank">
+        <a href="Link">
             <img src="tata1.jpg" alt="TATA Certificate 1">
         </a>
-        <a href="https://unstop.com/certificate-preview/3087a1b2-cda1-4a21-9e0e-cb07e7c44d23" target="_blank">
+        <a href="Link">
             <img src="tata2.jpg" alt="TATA Certificate 2">
         </a>
-        <a href="https://d8it4huxumps7.cloudfront.net/lambda-pdfs/certificate-images/9537658d-1636-49b1-be32-67f4fbc4fc21.jpg" target="_blank">
+        <a href="Link">
             <img src="tvs.jpg" alt="TVS Certificate">
         </a>
     </div>
